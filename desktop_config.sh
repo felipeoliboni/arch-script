@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Installing hyprland desktop configuration"
+
 #Clone the repository with Hyprland
 cd /home/$USER
 git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland

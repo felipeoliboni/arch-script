@@ -11,6 +11,8 @@ sudo pacman -S --noconfirm --needed base-devel git
 chmod +x install_apps.sh
 chmod +x desktop_config.sh
 
-./install_apps.sh
+
 ./desktop_config.sh
+./install_apps.sh
+
 
